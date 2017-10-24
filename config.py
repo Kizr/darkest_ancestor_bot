@@ -1,0 +1,5 @@
+username = "darkest_ancestor_bot"
+password = "Reborn12"
+client_id = "cO797sBKpmpmcg"
+client_secret = "jZWwIhIROLjqWfj7DKVpQpbieak"
+user_agent = "Darkest Dungeon Ancestor Bot v1.0"
